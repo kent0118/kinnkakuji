@@ -1,0 +1,39 @@
+html {
+    margin: 0;
+}
+
+
+h2 {
+    background: #0000ff;
+}
+.a {
+    background-image: url("./kyoto-2895857_1920.jpg");
+}
+
+header {
+    background: yellow;
+    position: sticky;
+    top: 0;
+    height: 70px;
+}
+.b {
+    width: 195px;
+}
+}
+.c {
+    width: 470px;
+}
+.d {
+    width: 200px;
+}
+.e{
+    width: 325px;
+}
+
+.f {
+    background: yellow;
+}
+.g {
+    height: 550px;
+    width: 100%;
+}
